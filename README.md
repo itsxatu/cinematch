@@ -1,6 +1,3 @@
-Sure, here is a complete `README.md` file for your `CineMatch` project:
-
----
 
 # CineMatch: A Simple Movie Recommendation System
 
